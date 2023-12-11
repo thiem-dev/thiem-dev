@@ -254,7 +254,7 @@ I have a passion for playing with the latest technologies and libraries specific
       alt="Google Cloud"
     />
   </a>
-</p>;
+</p>
 
 
 ## Socials
