@@ -8,7 +8,7 @@ I have a passion for playing with the latest technologies and libraries specific
 
 * 🌍  I'm based in Georgia
 * ✉️  You can contact me at [thiem.huynh0@gmail.com](mailto:thiem.huynh0@gmail.com)
-* 🧠  I'm playing with Tensorflow 
+* 🧠  Current interest: Tensorflow 
 * ⚡  Secretly trying to gamify life
 
 ## Skills
