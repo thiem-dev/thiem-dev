@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I have a passion for playing with the latest technologies and libraries specifically AI and computer vision. The PERN stack is my current favorite for building and deploying apps/APIs quickly. I have a BS in Information Technology and Web Development and my side hustle is Photography and Video. I would love to collaborate and any projects and hope to contribute to more open source projects soon. Feel free to reach out if you want to nerd out about ai, tech, or cameras!
+I have a passion for playing with the latest technologies and libraries specifically AI and computer vision. The PERN stack is my current favorite for building and deploying apps/APIs quickly. I have a BS in Information Technology and Web Development and my side hustle is Photography and Video. I would love to collaborate on any projects and hope to contribute to more open source projects soon. Feel free to reach out if you want to nerd out about ai, tech, or cameras!
 
 * 🌍  I'm based in Georgia
 * ✉️  You can contact me at [thiem.huynh0@gmail.com](mailto:thiem.huynh0@gmail.com)
