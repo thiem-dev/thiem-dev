@@ -7,13 +7,13 @@
  
 👨‍💻🔧 SWE Toolset: `Javascript`, `Python`, `Java`, `PERN Stack`, `Nextjs`
 
-🪖📸 Army Portfolio: https://photos.app.goo.gl/AL2tAs6MYcH14oJT9
+🪖📸 Army Photo Portfolio: https://photos.app.goo.gl/AL2tAs6MYcH14oJT9
 
-🤵📸 Civilian Portfolio: https://photos.app.goo.gl/LsSgJmTdkpMuLGcR6
+🤵📸 Civilian Photo Portfolio: https://photos.app.goo.gl/LsSgJmTdkpMuLGcR6
 
 🕹️ Favorite things: **Darknet Diaries** <sub>podcast while I run</sub> | **Hell Divers 2** <sub>Sip on a cup of Liber-Tea</sub> | **Making a custom Flipper Zeros** <sub>Digital Swiss Army Knife</sub>
 
-😱  I think CTF competitions have activated my inner kleptomaniac
+😱 I think CTF competitions have activated my inner kleptomaniac
 
 </br>
 
