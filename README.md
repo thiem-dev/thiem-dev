@@ -3,7 +3,7 @@
 
 </br>
 
-📟🔑 CyberSec Toolset: `Kali`, `Wireshark`, `MetaSploit`, `BurpSuite`, `Bellingcat's Online Investigation Toolkit`
+📟🔑 CyberSec Toolset: `Kali`, `Wireshark`, `MetaSploit`, `BurpSuite`, `Bellingcat's Online Investigation Toolkit`, and of course the `CyberChef` 🧑‍🍳
  
 👨‍💻🔧 SWE Toolset: `Javascript`, `Python`, `Java`, `PERN Stack`, `Nextjs`
 
