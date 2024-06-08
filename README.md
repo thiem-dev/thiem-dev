@@ -16,7 +16,7 @@
 >>> **Hell Divers 2** <sub>Sip on a cup of Liber-Tea</sub>
 >>>> **Making a custom Flipper Zeros** <sub>Digital Swiss Army Knife</sub>
 
-😱 I think CTF competitions have activated my inner kleptomaniac
+😱 I think CTF competitions have activated my inner gaming addiction. (Feels like I'm playing Talos Principle)
 
 </br>
 
