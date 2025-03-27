@@ -1,22 +1,7 @@
 # Hey! I'm Thiem (Tim) Huynh 👋
-### Cyber Security | Software Engineer / Web Developer | US Army Veteran (COMCAM)
+### Cyber Security |  Web Developer | US Army Veteran (COMCAM)
 
-</br>
-
-📟🔑 CyberSec Toolset: `Kali`, `Wireshark`, `MetaSploit`, `BurpSuite`, `Bellingcat's Online Investigation Toolkit`, and `CyberChef` 🧑‍🍳
- 
-👨‍💻🔧 SWE Toolset: `Javascript`, `Python`, `Java`, `PERN Stack`, `Nextjs`
-
-🪖📸 Army Photo Portfolio: https://photos.app.goo.gl/AL2tAs6MYcH14oJT9
-
-🤵📸 Civilian Photo Portfolio: https://photos.app.goo.gl/LsSgJmTdkpMuLGcR6
-
-🕹️ Favorite things: 
->> **Darknet Diaries** <sub>podcast while I run</sub> 
->>> **Hell Divers 2** <sub>Sip on a cup of Liber-Tea</sub>
->>>> **Making a custom Flipper Zeros** <sub>Digital Swiss Army Knife</sub>
-
-😱 I think CTF competitions have activated my inner gaming addiction. (Feels like I'm playing Talos Principle)
+Breaking web apps was more fun than I expected. 
 
 </br>
 
