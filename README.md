@@ -1,4 +1,4 @@
-# Hey! I'm Thiem (Tim) Huynh 👋
+# Hey! It's Tim here👋
 ### Cyber Security |  Web Developer | US Army Veteran (COMCAM)
 
 Breaking web apps was more fun than I expected. 
